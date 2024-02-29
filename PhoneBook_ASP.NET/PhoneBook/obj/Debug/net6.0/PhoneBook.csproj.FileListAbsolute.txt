@@ -1,0 +1,122 @@
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\appsettings.json
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\PhoneBook.exe
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\PhoneBook.deps.json
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\PhoneBook.runtimeconfig.json
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\PhoneBook.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\PhoneBook.pdb
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\obj\Debug\net6.0\PhoneBook.csproj.AssemblyReference.cache
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\obj\Debug\net6.0\PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\obj\Debug\net6.0\PhoneBook.AssemblyInfoInputs.cache
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\obj\Debug\net6.0\PhoneBook.AssemblyInfo.cs
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\obj\Debug\net6.0\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\obj\Debug\net6.0\PhoneBook.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\obj\Debug\net6.0\PhoneBook.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\obj\Debug\net6.0\scopedcss\bundle\PhoneBook.styles.css
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\obj\Debug\net6.0\PhoneBook.csproj.CopyComplete
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\obj\Debug\net6.0\PhoneBook.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\obj\Debug\net6.0\refint\PhoneBook.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\obj\Debug\net6.0\PhoneBook.pdb
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\obj\Debug\net6.0\PhoneBook.genruntimeconfig.cache
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\obj\Debug\net6.0\ref\PhoneBook.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\Serilog.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\PhoneBook_Starter_ASP.NET\PhoneBook\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\appsettings.json
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\PhoneBook.exe
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\PhoneBook.deps.json
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\PhoneBook.runtimeconfig.json
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\PhoneBook.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\PhoneBook.pdb
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\Serilog.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\obj\Debug\net6.0\PhoneBook.csproj.AssemblyReference.cache
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\obj\Debug\net6.0\PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\obj\Debug\net6.0\PhoneBook.AssemblyInfoInputs.cache
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\obj\Debug\net6.0\PhoneBook.AssemblyInfo.cs
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\obj\Debug\net6.0\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\obj\Debug\net6.0\PhoneBook.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\obj\Debug\net6.0\PhoneBook.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\obj\Debug\net6.0\scopedcss\bundle\PhoneBook.styles.css
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\obj\Debug\net6.0\PhoneBook.csproj.CopyComplete
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\obj\Debug\net6.0\PhoneBook.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\obj\Debug\net6.0\refint\PhoneBook.dll
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\obj\Debug\net6.0\PhoneBook.pdb
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\obj\Debug\net6.0\PhoneBook.genruntimeconfig.cache
+C:\Users\Ijaz Mohamed Umar\Downloads\InputValidationProject-1 (1)\InputValidationProject\PhoneBook_ASP.NET\PhoneBook\obj\Debug\net6.0\ref\PhoneBook.dll
